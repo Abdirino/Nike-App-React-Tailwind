@@ -8,6 +8,7 @@ import SpecialOffer from "./Sections/SpecialOffer"
 import Subscribe from "./Sections/Subscribe"
 import SuperQuality from "./Sections/SuperQuality"
 
+
 const App = () => (
   <main className="relative">
     <Nav />
